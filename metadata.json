@@ -1,0 +1,6 @@
+{
+  "name": "Junior Testbook",
+  "description": "Live Online Examination Platform for competitive exams like UP Police, TGT/PGT, UGC NET, SSC with real-time testing, live ranks, and instant analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
